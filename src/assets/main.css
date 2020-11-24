@@ -1,0 +1,13 @@
+* {
+  font-family: 'M PLUS 1p', sans-serif;
+  box-sizing: border-box;
+  overscroll-behavior-x: none;
+  overscroll-behavior-y: none;
+}
+
+html, body, #__nuxt, #__layout {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
